@@ -1,2 +1,0 @@
-# Temporizador-violento
-Complemento
