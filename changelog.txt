@@ -1,0 +1,1 @@
+Se agregaron sonidos interactivos para cada acción y cuando se abra y se cierra el plugin además de los botones que faltaban a la interfaz
